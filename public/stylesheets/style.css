@@ -1,0 +1,11 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 10px;
+    list-style: none;
+	background-color: #81F7F3;
+	text-align: center;
+	border-radius: 10px;
+}
+.sidebar-nav li{
+	color: black;
+}
